@@ -34,8 +34,12 @@ a:hover { text-decoration: underline; }
   border: 0;
 }
 
+.icons {
+  line-height: 3em;
+}
+
 .social {
-  margin: 0 14px 0 14px;
+  margin: 0 10px 0 10px;
   opacity: .7;
 }
 
