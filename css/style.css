@@ -23,6 +23,9 @@ a:hover { text-decoration: underline; }
 .name {
   font-size: 3em;
 }
+.subname {
+  font-size: 2em;
+}
 
 .badge {
   position: fixed;
